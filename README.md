@@ -10,7 +10,7 @@
               [ SYSTEM STATUS: 🟢 OPERATIONAL ]
 ```
 
-<sub>Building autonomous AI agent infrastructure · Transforming dialogue into code</sub>
+**`[METRICS]`** Building autonomous AI agent infrastructure · Transforming dialogue into code
 
 </div>
 
@@ -30,12 +30,12 @@
 
 
 
-🤖 **[Conductor](https://github.com/cezarfuhr/conductor)** `[●]` · Backend e CLI para criar, gerenciar e orquestrar agentes de IA especializados.
+🧠 `[●]` **[Conductor-Web](https://github.com/cezarfuhr/conductor-web)** · Frontend que transforma documentos Markdown em painéis de controle interativos.
 
-⚙️ **[Conductor-Gateway](https://github.com/cezarfuhr/conductor-gateway)** `[●]` · API Gateway que serve como ponte entre UIs e o backend do Conductor.
+⚙️ `[●]` **[Conductor-Gateway](https://github.com/cezarfuhr/conductor-gateway)** · API Gateway que serve como ponte entre UIs e o backend do Conductor.
 
-🧠 **[Conductor-Web](https://github.com/cezarfuhr/conductor-web)** `[●]` · Frontend que transforma documentos Markdown em painéis de controle interativos.
+🤖 `[●]` **[Conductor](https://github.com/cezarfuhr/conductor)** · Backend e CLI para criar, gerenciar e orquestrar agentes de IA especializados.
 
 ---
 
-**`[METRICS]`** Commits: 310 · Contributors: 1 · Last Activity: 2025-09-30
+Commits: 310 · Contributors: 1 · Last Activity: 2025-09-30
