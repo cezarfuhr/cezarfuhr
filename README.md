@@ -30,11 +30,11 @@
 
 
 
-🧠 `[●]` **[Conductor-Web](https://github.com/cezarfuhr/conductor-web)** · Frontend que transforma documentos Markdown em painéis de controle interativos.
+🧠 `[🟢]` **[Conductor-Web](https://github.com/cezarfuhr/conductor-web)** · Frontend que transforma documentos Markdown em painéis de controle interativos.
 
-⚙️ `[●]` **[Conductor-Gateway](https://github.com/cezarfuhr/conductor-gateway)** · API Gateway que serve como ponte entre UIs e o backend do Conductor.
+⚙️ `[🟢]` **[Conductor-Gateway](https://github.com/cezarfuhr/conductor-gateway)** · API Gateway que serve como ponte entre UIs e o backend do Conductor.
 
-🤖 `[●]` **[Conductor](https://github.com/cezarfuhr/conductor)** · Backend e CLI para criar, gerenciar e orquestrar agentes de IA especializados.
+🤖 `[🟢]` **[Conductor](https://github.com/cezarfuhr/conductor)** · Backend e CLI para criar, gerenciar e orquestrar agentes de IA especializados.
 
 ---
 
