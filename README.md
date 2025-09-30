@@ -1,14 +1,13 @@
 <div align="center">
 
 ```
-   _____ ____  _   _ ____  _    _  _____ _______ ____  _____
-  / ____/ __ \| \ | |  _ \| |  | |/ ____|__   __/ __ \|  __ \
- | |   | |  | |  \| | |_) | |  | | |       | | | |  | | |__) |
- | |   | |  | | . ` |  _ <| |  | | |       | | | |  | |  _  /
- | |___| |__| | |\  | |_) | |__| | |____   | | | |__| | | \ \
-  \_____\____/|_| \_|____/ \____/ \_____|  |_|  \____/|_|  \_\
+   ____                 _            _
+  / ___|___  _ __   __| |_   _  ___| |_ ___  _ __
+ | |   / _ \| '_ \ / _` | | | |/ __| __/ _ \| '__|
+ | |__| (_) | | | | (_| | |_| | (__| || (_) | |
+  \____\___/|_| |_|\__,_|\__,_|\___|\__\___/|_|
 
-              [ SYSTEM STATUS: ● OPERATIONAL ]
+              [ SYSTEM STATUS: 🟢 OPERATIONAL ]
 ```
 
 <sub>Building autonomous AI agent infrastructure · Transforming dialogue into code</sub>
@@ -31,15 +30,12 @@
 
 
 
-- **🤖 [Conductor](https://github.com/cezarfuhr/conductor)** `[●]`
-  - *Backend e CLI para criar, gerenciar e orquestrar agentes de IA especializados.*
+🤖 **[Conductor](https://github.com/cezarfuhr/conductor)** `[●]` · Backend e CLI para criar, gerenciar e orquestrar agentes de IA especializados.
 
-- **⚙️ [Conductor-Gateway](https://github.com/cezarfuhr/conductor-gateway)** `[●]`
-  - *API Gateway que serve como ponte entre UIs e o backend do Conductor.*
+⚙️ **[Conductor-Gateway](https://github.com/cezarfuhr/conductor-gateway)** `[●]` · API Gateway que serve como ponte entre UIs e o backend do Conductor.
 
-- **🧠 [Conductor-Web](https://github.com/cezarfuhr/conductor-web)** `[●]`
-  - *Frontend que transforma documentos Markdown em painéis de controle interativos.*
+🧠 **[Conductor-Web](https://github.com/cezarfuhr/conductor-web)** `[●]` · Frontend que transforma documentos Markdown em painéis de controle interativos.
 
 ---
 
-<sub>`[METRICS]` Commits: 310 · Contributors: 1 · Last Activity: 2025-09-30</sub>
+**`[METRICS]`** Commits: 310 · Contributors: 1 · Last Activity: 2025-09-30
