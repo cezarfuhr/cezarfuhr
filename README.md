@@ -18,16 +18,17 @@ O trabalho atual se concentra em construir e expandir o ecossistema **Conductor*
 
 ---
 
-### 📊 Métricas Operacionais
+### 📊 Estatísticas Agregadas (Local)
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cezarfuhr&show_icons=true&theme=tokyonight&rank_icon=github" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cezarfuhr&layout=compact&theme=tokyonight" />
-  </a>
-</p>
+| Métrica | Valor |
+| --- | --- |
+| **Total de Commits** | 310 |
+| **Contribuidores** | 1 |
+| **Última Atividade** | 2025-09-30 |
+| **Top Linguagens** | 1. Python<br>2. JavaScript<br>3. TypeScript |
+
+*As estatísticas acima são agregadas dos projetos open-source `conductor`, `conductor-gateway` e `conductor-web` e são atualizadas manualmente.*
+
 
 ---
 
