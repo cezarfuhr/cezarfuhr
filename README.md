@@ -17,7 +17,7 @@
 
 ---
 
-### [//:CORE_PROJECT_DIRECTIVES]
+
 
 - **🎼 Conductor: The AI-Powered Orchestration Framework**
   - *Backend e CLI para criar, gerenciar e orquestrar agentes de IA especializados.*
@@ -30,7 +30,7 @@
 
 ---
 
-### [//:LOCAL_METRICS]
+
 *Estatísticas agregadas e manuais dos projetos open-source acima.*
 
 - ⚡ **Total Commits:** 310
