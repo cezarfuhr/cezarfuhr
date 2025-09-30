@@ -1,6 +1,18 @@
 <div align="center">
-  <pre>[ SYSTEM STATUS: OPERATIONAL ]</pre>
-  <i>Orquestrando agentes de IA para transformar diálogo em código.</i>
+
+```
+   _____ ____  _   _ ____  _    _  _____ _______ ____  _____
+  / ____/ __ \| \ | |  _ \| |  | |/ ____|__   __/ __ \|  __ \
+ | |   | |  | |  \| | |_) | |  | | |       | | | |  | | |__) |
+ | |   | |  | | . ` |  _ <| |  | | |       | | | |  | |  _  /
+ | |___| |__| | |\  | |_) | |__| | |____   | | | |__| | | \ \
+  \_____\____/|_| \_|____/ \____/ \_____|  |_|  \____/|_|  \_\
+
+              [ SYSTEM STATUS: ● OPERATIONAL ]
+```
+
+<sub>Building autonomous AI agent infrastructure · Transforming dialogue into code</sub>
+
 </div>
 
 <p align="center">
@@ -19,20 +31,15 @@
 
 
 
-- **🎼 Conductor: The AI-Powered Orchestration Framework**
+- **🤖 [Conductor](https://github.com/cezarfuhr/conductor)** `[●]`
   - *Backend e CLI para criar, gerenciar e orquestrar agentes de IA especializados.*
 
-- **🔌 Conductor-Gateway: The Agent-Human Interface**
+- **⚙️ [Conductor-Gateway](https://github.com/cezarfuhr/conductor-gateway)** `[●]`
   - *API Gateway que serve como ponte entre UIs e o backend do Conductor.*
 
-- **🖥️ Conductor-Web: The Interface for Living Documents**
+- **🧠 [Conductor-Web](https://github.com/cezarfuhr/conductor-web)** `[●]`
   - *Frontend que transforma documentos Markdown em painéis de controle interativos.*
 
 ---
 
-
-*Estatísticas agregadas e manuais dos projetos open-source acima.*
-
-- ⚡ **Total Commits:** 310
-- 👨‍💻 **Contribuidores:** 1
-- 📅 **Última Atividade:** 2025-09-30
+<sub>`[METRICS]` Commits: 310 · Contributors: 1 · Last Activity: 2025-09-30</sub>
